@@ -1,4 +1,4 @@
-# 📊 HarFun Mola – Admin Dashboard
+# 📊 Full Stack – HarFun Mola – Admin Dashboard
 
 > ⚠️ **Notice:** The live admin dashboard requires **email and password** to log in.  
 > Credentials will be provided **on demand**. Please contact the author if you want access.
