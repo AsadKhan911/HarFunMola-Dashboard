@@ -206,12 +206,18 @@ Get a snapshot of platform activity:
 
 ---
 
-## ⚡ Getting Started
+## ⚡Run the project locally
 
-Clone and run the project locally:
+Clone the repository, install dependencies, and start both frontend and backend:
 
 ```bash
+
 git clone https://github.com/AsadKhan911/HarFunMola-Dashboard.git
-cd harfun-mola-dashboard
-npm install
-npm start
+cd HarFunMola-Dashboard
+cd backend && npm install
+cd ../frontend && npm install
+# Start backend
+cd ../backend && npm start
+# Start frontend (in a new terminal)
+cd ../frontend && npm start
+
